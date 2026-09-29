@@ -1,4 +1,4 @@
-#boolen values
+#boolen values all topics
 print(10 > 9)
 print(10 == 9)
 print(10 < 9)
