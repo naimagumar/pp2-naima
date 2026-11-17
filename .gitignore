@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+tsis_1/config.py
+tsis_1/contacts.json
